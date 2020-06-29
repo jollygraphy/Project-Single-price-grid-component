@@ -1,0 +1,78 @@
+body {
+  background-color: hsl(218, 22%, 67%);
+  font-family: 'Karla', sans-serif;
+  line-height: 1.5;
+}
+
+h4 {
+  color: grey;
+}
+
+p {
+  font-size: 1.3rem;
+}
+
+.container {
+  margin: 10% 15%;
+}
+
+.row {
+  margin: 0 0;
+}
+
+/* Section 1 */
+
+.white-section {
+  padding: 7% 7%;
+  background-color: #fff;
+  font-weight: bold;
+}
+
+.join-our-community {
+  color: hsl(179, 62%, 43%)
+}
+
+.white-section-h3 {
+  color: hsl(71, 73%, 54%);
+  margin: 3% auto;
+}
+
+/* Section 2 */
+
+.blue-section-1 {
+  padding: 5% 5%;
+  color: #fff;
+  background-color: hsl(179, 62%, 43%);
+  line-height: 2;
+}
+
+.price {
+  font-size: 3rem;
+}
+
+.price-prefix {
+  margin-left: 2%;
+  opacity: 0.5;
+  font-size: 1.5rem;
+}
+
+.btn {
+  background-color: hsl(71, 73%, 54%);
+  border: 0;
+  margin-top: 2%;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+/* Section 3 */
+
+.blue-section-2 {
+  background-color: hsl(179, 47%, 52%);
+  color: #fff;
+  padding: 5% 5%;
+  line-height: 0.5;
+}
+
+.heading-why-us {
+  margin-bottom: 8%;
+}
